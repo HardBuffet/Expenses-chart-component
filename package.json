@@ -1,0 +1,31 @@
+{
+  "name": "expenses-chart-component-main",
+  "version": "1.0.0",
+  "description": "Expenses chart component the challenge from FrontendMentor",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/style.scss:assets/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HardBuffet/Expenses-chart-component.git"
+  },
+  "keywords": [
+    "frontend",
+    "mentor",
+    "challenge"
+  ],
+  "author": "HardBuffet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HardBuffet/Expenses-chart-component/issues"
+  },
+  "homepage": "https://github.com/HardBuffet/Expenses-chart-component#readme",
+  "dependencies": {
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-cli": "^1.4.3",
+    "grunt-contrib-watch": "^1.1.0",
+    "prettier": "^2.6.2",
+    "sass": "^1.52.1"
+  }
+}
